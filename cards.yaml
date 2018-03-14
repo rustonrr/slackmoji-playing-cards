@@ -10,6 +10,14 @@ emojis:
       - spades1
       - spades1
       - 1spades
+      - sace
+      - aces
+      - acespades
+      - sace
+      - aces
+      - spadesace
+      - spadesace
+      - acespades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1s.png'
   - name: 2s
     aliases:
@@ -153,6 +161,14 @@ emojis:
       - diamonds1
       - diamonds1
       - 1diamonds
+      - dace
+      - aced
+      - acediamonds
+      - dace
+      - aced
+      - diamondsace
+      - diamondsace
+      - acediamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1d.png'
   - name: 2d
     aliases:
@@ -296,6 +312,14 @@ emojis:
       - clubs1
       - clubs1
       - 1clubs
+      - cace
+      - acec
+      - aceclubs
+      - cace
+      - acec
+      - clubsace
+      - clubsace
+      - aceclubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1c.png'
   - name: 2c
     aliases:
@@ -439,6 +463,14 @@ emojis:
       - hearts1
       - hearts1
       - 1hearts
+      - hace
+      - aceh
+      - acehearts
+      - hace
+      - aceh
+      - heartsace
+      - heartsace
+      - acehearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1h.png'
   - name: 2h
     aliases:
