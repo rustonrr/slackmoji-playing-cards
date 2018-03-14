@@ -1,0 +1,106 @@
+title: cards
+emojis:
+  - name: 1S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1S.png'
+  - name: 2S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2S.png'
+  - name: 3S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3S.png'
+  - name: 4S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4S.png'
+  - name: 5S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5S.png'
+  - name: 6S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6S.png'
+  - name: 7S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7S.png'
+  - name: 8S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8S.png'
+  - name: 9S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9S.png'
+  - name: 10S
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10S.png'
+  - name: jS
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jS.png'
+  - name: qS
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qS.png'
+  - name: kS
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kS.png'
+  - name: 1D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1D.png'
+  - name: 2D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2D.png'
+  - name: 3D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3D.png'
+  - name: 4D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4D.png'
+  - name: 5D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5D.png'
+  - name: 6D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6D.png'
+  - name: 7D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7D.png'
+  - name: 8D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8D.png'
+  - name: 9D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9D.png'
+  - name: 10D
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10D.png'
+  - name: jD
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jD.png'
+  - name: qD
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qD.png'
+  - name: kD
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kD.png'
+  - name: 1C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1C.png'
+  - name: 2C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2C.png'
+  - name: 3C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3C.png'
+  - name: 4C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4C.png'
+  - name: 5C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5C.png'
+  - name: 6C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6C.png'
+  - name: 7C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7C.png'
+  - name: 8C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8C.png'
+  - name: 9C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9C.png'
+  - name: 10C
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10C.png'
+  - name: jC
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jC.png'
+  - name: qC
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qC.png'
+  - name: kC
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kC.png'
+  - name: 1H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1H.png'
+  - name: 2H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2H.png'
+  - name: 3H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3H.png'
+  - name: 4H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4H.png'
+  - name: 5H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5H.png'
+  - name: 6H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6H.png'
+  - name: 7H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7H.png'
+  - name: 8H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8H.png'
+  - name: 9H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9H.png'
+  - name: 10H
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10H.png'
+  - name: jH
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jH.png'
+  - name: qH
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qH.png'
+  - name: kH
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kH.png'
