@@ -1,106 +1,574 @@
 title: cards
 emojis:
   - name: 1s
+    aliases:
+      - s1
+      - 1s
+      - 1spades
+      - s1
+      - 1s
+      - spades1
+      - spades1
+      - 1spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1S.png'
   - name: 2s
+    aliases:
+      - s2
+      - 2s
+      - 2spades
+      - s2
+      - 2s
+      - spades2
+      - spades2
+      - 2spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2S.png'
   - name: 3s
+    aliases:
+      - s3
+      - 3s
+      - 3spades
+      - s3
+      - 3s
+      - spades3
+      - spades3
+      - 3spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3S.png'
   - name: 4s
+    aliases:
+      - s4
+      - 4s
+      - 4spades
+      - s4
+      - 4s
+      - spades4
+      - spades4
+      - 4spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4S.png'
   - name: 5s
+    aliases:
+      - s5
+      - 5s
+      - 5spades
+      - s5
+      - 5s
+      - spades5
+      - spades5
+      - 5spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5S.png'
   - name: 6s
+    aliases:
+      - s6
+      - 6s
+      - 6spades
+      - s6
+      - 6s
+      - spades6
+      - spades6
+      - 6spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6S.png'
   - name: 7s
+    aliases:
+      - s7
+      - 7s
+      - 7spades
+      - s7
+      - 7s
+      - spades7
+      - spades7
+      - 7spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7S.png'
   - name: 8s
+    aliases:
+      - s8
+      - 8s
+      - 8spades
+      - s8
+      - 8s
+      - spades8
+      - spades8
+      - 8spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8S.png'
   - name: 9s
+    aliases:
+      - s9
+      - 9s
+      - 9spades
+      - s9
+      - 9s
+      - spades9
+      - spades9
+      - 9spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9S.png'
   - name: 10s
+    aliases:
+      - s1
+      - 1s
+      - 1spades
+      - s10
+      - 10s
+      - spades1
+      - spades10
+      - 10spades
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10S.png'
-  - name: js
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jS.png'
-  - name: qs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qS.png'
-  - name: ks
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kS.png'
+  - name: jacks
+    aliases:
+      - sj
+      - js
+      - jspades
+      - sjack
+      - jacks
+      - spadesj
+      - spadesjack
+      - jackspades
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackS.png'
+  - name: queens
+    aliases:
+      - sq
+      - qs
+      - qspades
+      - squeen
+      - queens
+      - spadesq
+      - spadesqueen
+      - queenspades
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenS.png'
+  - name: kings
+    aliases:
+      - sk
+      - ks
+      - kspades
+      - sking
+      - kings
+      - spadesk
+      - spadesking
+      - kingspades
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingS.png'
   - name: 1d
+    aliases:
+      - d1
+      - 1d
+      - 1diamonds
+      - d1
+      - 1d
+      - diamonds1
+      - diamonds1
+      - 1diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1D.png'
   - name: 2d
+    aliases:
+      - d2
+      - 2d
+      - 2diamonds
+      - d2
+      - 2d
+      - diamonds2
+      - diamonds2
+      - 2diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2D.png'
   - name: 3d
+    aliases:
+      - d3
+      - 3d
+      - 3diamonds
+      - d3
+      - 3d
+      - diamonds3
+      - diamonds3
+      - 3diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3D.png'
   - name: 4d
+    aliases:
+      - d4
+      - 4d
+      - 4diamonds
+      - d4
+      - 4d
+      - diamonds4
+      - diamonds4
+      - 4diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4D.png'
   - name: 5d
+    aliases:
+      - d5
+      - 5d
+      - 5diamonds
+      - d5
+      - 5d
+      - diamonds5
+      - diamonds5
+      - 5diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5D.png'
   - name: 6d
+    aliases:
+      - d6
+      - 6d
+      - 6diamonds
+      - d6
+      - 6d
+      - diamonds6
+      - diamonds6
+      - 6diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6D.png'
   - name: 7d
+    aliases:
+      - d7
+      - 7d
+      - 7diamonds
+      - d7
+      - 7d
+      - diamonds7
+      - diamonds7
+      - 7diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7D.png'
   - name: 8d
+    aliases:
+      - d8
+      - 8d
+      - 8diamonds
+      - d8
+      - 8d
+      - diamonds8
+      - diamonds8
+      - 8diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8D.png'
   - name: 9d
+    aliases:
+      - d9
+      - 9d
+      - 9diamonds
+      - d9
+      - 9d
+      - diamonds9
+      - diamonds9
+      - 9diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9D.png'
   - name: 10d
+    aliases:
+      - d1
+      - 1d
+      - 1diamonds
+      - d10
+      - 10d
+      - diamonds1
+      - diamonds10
+      - 10diamonds
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10D.png'
-  - name: jd
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jD.png'
-  - name: qd
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qD.png'
-  - name: kd
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kD.png'
+  - name: jackd
+    aliases:
+      - dj
+      - jd
+      - jdiamonds
+      - djack
+      - jackd
+      - diamondsj
+      - diamondsjack
+      - jackdiamonds
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackD.png'
+  - name: queend
+    aliases:
+      - dq
+      - qd
+      - qdiamonds
+      - dqueen
+      - queend
+      - diamondsq
+      - diamondsqueen
+      - queendiamonds
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenD.png'
+  - name: kingd
+    aliases:
+      - dk
+      - kd
+      - kdiamonds
+      - dking
+      - kingd
+      - diamondsk
+      - diamondsking
+      - kingdiamonds
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingD.png'
   - name: 1c
+    aliases:
+      - c1
+      - 1c
+      - 1clubs
+      - c1
+      - 1c
+      - clubs1
+      - clubs1
+      - 1clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1C.png'
   - name: 2c
+    aliases:
+      - c2
+      - 2c
+      - 2clubs
+      - c2
+      - 2c
+      - clubs2
+      - clubs2
+      - 2clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2C.png'
   - name: 3c
+    aliases:
+      - c3
+      - 3c
+      - 3clubs
+      - c3
+      - 3c
+      - clubs3
+      - clubs3
+      - 3clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3C.png'
   - name: 4c
+    aliases:
+      - c4
+      - 4c
+      - 4clubs
+      - c4
+      - 4c
+      - clubs4
+      - clubs4
+      - 4clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4C.png'
   - name: 5c
+    aliases:
+      - c5
+      - 5c
+      - 5clubs
+      - c5
+      - 5c
+      - clubs5
+      - clubs5
+      - 5clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5C.png'
   - name: 6c
+    aliases:
+      - c6
+      - 6c
+      - 6clubs
+      - c6
+      - 6c
+      - clubs6
+      - clubs6
+      - 6clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6C.png'
   - name: 7c
+    aliases:
+      - c7
+      - 7c
+      - 7clubs
+      - c7
+      - 7c
+      - clubs7
+      - clubs7
+      - 7clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7C.png'
   - name: 8c
+    aliases:
+      - c8
+      - 8c
+      - 8clubs
+      - c8
+      - 8c
+      - clubs8
+      - clubs8
+      - 8clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8C.png'
   - name: 9c
+    aliases:
+      - c9
+      - 9c
+      - 9clubs
+      - c9
+      - 9c
+      - clubs9
+      - clubs9
+      - 9clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9C.png'
   - name: 10c
+    aliases:
+      - c1
+      - 1c
+      - 1clubs
+      - c10
+      - 10c
+      - clubs1
+      - clubs10
+      - 10clubs
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10C.png'
-  - name: jc
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jC.png'
-  - name: qc
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qC.png'
-  - name: kc
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kC.png'
+  - name: jackc
+    aliases:
+      - cj
+      - jc
+      - jclubs
+      - cjack
+      - jackc
+      - clubsj
+      - clubsjack
+      - jackclubs
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackC.png'
+  - name: queenc
+    aliases:
+      - cq
+      - qc
+      - qclubs
+      - cqueen
+      - queenc
+      - clubsq
+      - clubsqueen
+      - queenclubs
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenC.png'
+  - name: kingc
+    aliases:
+      - ck
+      - kc
+      - kclubs
+      - cking
+      - kingc
+      - clubsk
+      - clubsking
+      - kingclubs
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingC.png'
   - name: 1h
+    aliases:
+      - h1
+      - 1h
+      - 1hearts
+      - h1
+      - 1h
+      - hearts1
+      - hearts1
+      - 1hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1H.png'
   - name: 2h
+    aliases:
+      - h2
+      - 2h
+      - 2hearts
+      - h2
+      - 2h
+      - hearts2
+      - hearts2
+      - 2hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2H.png'
   - name: 3h
+    aliases:
+      - h3
+      - 3h
+      - 3hearts
+      - h3
+      - 3h
+      - hearts3
+      - hearts3
+      - 3hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3H.png'
   - name: 4h
+    aliases:
+      - h4
+      - 4h
+      - 4hearts
+      - h4
+      - 4h
+      - hearts4
+      - hearts4
+      - 4hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4H.png'
   - name: 5h
+    aliases:
+      - h5
+      - 5h
+      - 5hearts
+      - h5
+      - 5h
+      - hearts5
+      - hearts5
+      - 5hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5H.png'
   - name: 6h
+    aliases:
+      - h6
+      - 6h
+      - 6hearts
+      - h6
+      - 6h
+      - hearts6
+      - hearts6
+      - 6hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6H.png'
   - name: 7h
+    aliases:
+      - h7
+      - 7h
+      - 7hearts
+      - h7
+      - 7h
+      - hearts7
+      - hearts7
+      - 7hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7H.png'
   - name: 8h
+    aliases:
+      - h8
+      - 8h
+      - 8hearts
+      - h8
+      - 8h
+      - hearts8
+      - hearts8
+      - 8hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8H.png'
   - name: 9h
+    aliases:
+      - h9
+      - 9h
+      - 9hearts
+      - h9
+      - 9h
+      - hearts9
+      - hearts9
+      - 9hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9H.png'
   - name: 10h
+    aliases:
+      - h1
+      - 1h
+      - 1hearts
+      - h10
+      - 10h
+      - hearts1
+      - hearts10
+      - 10hearts
     src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10H.png'
-  - name: jh
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jH.png'
-  - name: qh
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qH.png'
-  - name: kh
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kH.png'
+  - name: jackh
+    aliases:
+      - hj
+      - jh
+      - jhearts
+      - hjack
+      - jackh
+      - heartsj
+      - heartsjack
+      - jackhearts
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackH.png'
+  - name: queenh
+    aliases:
+      - hq
+      - qh
+      - qhearts
+      - hqueen
+      - queenh
+      - heartsq
+      - heartsqueen
+      - queenhearts
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenH.png'
+  - name: kingh
+    aliases:
+      - hk
+      - kh
+      - khearts
+      - hking
+      - kingh
+      - heartsk
+      - heartsking
+      - kinghearts
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingH.png'
