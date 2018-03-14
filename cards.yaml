@@ -10,7 +10,7 @@ emojis:
       - spades1
       - spades1
       - 1spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1s.png'
   - name: 2s
     aliases:
       - s2
@@ -21,7 +21,7 @@ emojis:
       - spades2
       - spades2
       - 2spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2s.png'
   - name: 3s
     aliases:
       - s3
@@ -32,7 +32,7 @@ emojis:
       - spades3
       - spades3
       - 3spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3s.png'
   - name: 4s
     aliases:
       - s4
@@ -43,7 +43,7 @@ emojis:
       - spades4
       - spades4
       - 4spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4s.png'
   - name: 5s
     aliases:
       - s5
@@ -54,7 +54,7 @@ emojis:
       - spades5
       - spades5
       - 5spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5s.png'
   - name: 6s
     aliases:
       - s6
@@ -65,7 +65,7 @@ emojis:
       - spades6
       - spades6
       - 6spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6s.png'
   - name: 7s
     aliases:
       - s7
@@ -76,7 +76,7 @@ emojis:
       - spades7
       - spades7
       - 7spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7s.png'
   - name: 8s
     aliases:
       - s8
@@ -87,7 +87,7 @@ emojis:
       - spades8
       - spades8
       - 8spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8s.png'
   - name: 9s
     aliases:
       - s9
@@ -98,7 +98,7 @@ emojis:
       - spades9
       - spades9
       - 9spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9s.png'
   - name: 10s
     aliases:
       - s1
@@ -109,7 +109,7 @@ emojis:
       - spades1
       - spades10
       - 10spades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10S.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1s.png'
   - name: jacks
     aliases:
       - sj
@@ -120,7 +120,7 @@ emojis:
       - spadesj
       - spadesjack
       - jackspades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackS.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/js.png'
   - name: queens
     aliases:
       - sq
@@ -131,7 +131,7 @@ emojis:
       - spadesq
       - spadesqueen
       - queenspades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenS.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qs.png'
   - name: kings
     aliases:
       - sk
@@ -142,7 +142,7 @@ emojis:
       - spadesk
       - spadesking
       - kingspades
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingS.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/ks.png'
   - name: 1d
     aliases:
       - d1
@@ -153,7 +153,7 @@ emojis:
       - diamonds1
       - diamonds1
       - 1diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1d.png'
   - name: 2d
     aliases:
       - d2
@@ -164,7 +164,7 @@ emojis:
       - diamonds2
       - diamonds2
       - 2diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2d.png'
   - name: 3d
     aliases:
       - d3
@@ -175,7 +175,7 @@ emojis:
       - diamonds3
       - diamonds3
       - 3diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3d.png'
   - name: 4d
     aliases:
       - d4
@@ -186,7 +186,7 @@ emojis:
       - diamonds4
       - diamonds4
       - 4diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4d.png'
   - name: 5d
     aliases:
       - d5
@@ -197,7 +197,7 @@ emojis:
       - diamonds5
       - diamonds5
       - 5diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5d.png'
   - name: 6d
     aliases:
       - d6
@@ -208,7 +208,7 @@ emojis:
       - diamonds6
       - diamonds6
       - 6diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6d.png'
   - name: 7d
     aliases:
       - d7
@@ -219,7 +219,7 @@ emojis:
       - diamonds7
       - diamonds7
       - 7diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7d.png'
   - name: 8d
     aliases:
       - d8
@@ -230,7 +230,7 @@ emojis:
       - diamonds8
       - diamonds8
       - 8diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8d.png'
   - name: 9d
     aliases:
       - d9
@@ -241,7 +241,7 @@ emojis:
       - diamonds9
       - diamonds9
       - 9diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9d.png'
   - name: 10d
     aliases:
       - d1
@@ -252,7 +252,7 @@ emojis:
       - diamonds1
       - diamonds10
       - 10diamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10D.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1d.png'
   - name: jackd
     aliases:
       - dj
@@ -263,7 +263,7 @@ emojis:
       - diamondsj
       - diamondsjack
       - jackdiamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackD.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jd.png'
   - name: queend
     aliases:
       - dq
@@ -274,7 +274,7 @@ emojis:
       - diamondsq
       - diamondsqueen
       - queendiamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenD.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qd.png'
   - name: kingd
     aliases:
       - dk
@@ -285,7 +285,7 @@ emojis:
       - diamondsk
       - diamondsking
       - kingdiamonds
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingD.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kd.png'
   - name: 1c
     aliases:
       - c1
@@ -296,7 +296,7 @@ emojis:
       - clubs1
       - clubs1
       - 1clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1c.png'
   - name: 2c
     aliases:
       - c2
@@ -307,7 +307,7 @@ emojis:
       - clubs2
       - clubs2
       - 2clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2c.png'
   - name: 3c
     aliases:
       - c3
@@ -318,7 +318,7 @@ emojis:
       - clubs3
       - clubs3
       - 3clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3c.png'
   - name: 4c
     aliases:
       - c4
@@ -329,7 +329,7 @@ emojis:
       - clubs4
       - clubs4
       - 4clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4c.png'
   - name: 5c
     aliases:
       - c5
@@ -340,7 +340,7 @@ emojis:
       - clubs5
       - clubs5
       - 5clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5c.png'
   - name: 6c
     aliases:
       - c6
@@ -351,7 +351,7 @@ emojis:
       - clubs6
       - clubs6
       - 6clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6c.png'
   - name: 7c
     aliases:
       - c7
@@ -362,7 +362,7 @@ emojis:
       - clubs7
       - clubs7
       - 7clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7c.png'
   - name: 8c
     aliases:
       - c8
@@ -373,7 +373,7 @@ emojis:
       - clubs8
       - clubs8
       - 8clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8c.png'
   - name: 9c
     aliases:
       - c9
@@ -384,7 +384,7 @@ emojis:
       - clubs9
       - clubs9
       - 9clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9c.png'
   - name: 10c
     aliases:
       - c1
@@ -395,7 +395,7 @@ emojis:
       - clubs1
       - clubs10
       - 10clubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10C.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1c.png'
   - name: jackc
     aliases:
       - cj
@@ -406,7 +406,7 @@ emojis:
       - clubsj
       - clubsjack
       - jackclubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackC.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jc.png'
   - name: queenc
     aliases:
       - cq
@@ -417,7 +417,7 @@ emojis:
       - clubsq
       - clubsqueen
       - queenclubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenC.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qc.png'
   - name: kingc
     aliases:
       - ck
@@ -428,7 +428,7 @@ emojis:
       - clubsk
       - clubsking
       - kingclubs
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingC.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kc.png'
   - name: 1h
     aliases:
       - h1
@@ -439,7 +439,7 @@ emojis:
       - hearts1
       - hearts1
       - 1hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1h.png'
   - name: 2h
     aliases:
       - h2
@@ -450,7 +450,7 @@ emojis:
       - hearts2
       - hearts2
       - 2hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/2h.png'
   - name: 3h
     aliases:
       - h3
@@ -461,7 +461,7 @@ emojis:
       - hearts3
       - hearts3
       - 3hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/3h.png'
   - name: 4h
     aliases:
       - h4
@@ -472,7 +472,7 @@ emojis:
       - hearts4
       - hearts4
       - 4hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/4h.png'
   - name: 5h
     aliases:
       - h5
@@ -483,7 +483,7 @@ emojis:
       - hearts5
       - hearts5
       - 5hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/5h.png'
   - name: 6h
     aliases:
       - h6
@@ -494,7 +494,7 @@ emojis:
       - hearts6
       - hearts6
       - 6hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/6h.png'
   - name: 7h
     aliases:
       - h7
@@ -505,7 +505,7 @@ emojis:
       - hearts7
       - hearts7
       - 7hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/7h.png'
   - name: 8h
     aliases:
       - h8
@@ -516,7 +516,7 @@ emojis:
       - hearts8
       - hearts8
       - 8hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/8h.png'
   - name: 9h
     aliases:
       - h9
@@ -527,7 +527,7 @@ emojis:
       - hearts9
       - hearts9
       - 9hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/9h.png'
   - name: 10h
     aliases:
       - h1
@@ -538,7 +538,7 @@ emojis:
       - hearts1
       - hearts10
       - 10hearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/10H.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/1h.png'
   - name: jackh
     aliases:
       - hj
@@ -549,7 +549,7 @@ emojis:
       - heartsj
       - heartsjack
       - jackhearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jackH.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/jh.png'
   - name: queenh
     aliases:
       - hq
@@ -560,7 +560,7 @@ emojis:
       - heartsq
       - heartsqueen
       - queenhearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/queenH.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/qh.png'
   - name: kingh
     aliases:
       - hk
@@ -571,4 +571,4 @@ emojis:
       - heartsk
       - heartsking
       - kinghearts
-    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kingH.png'
+    src: 'https://res.cloudinary.com/rustonrr/image/upload/c_limit,h_74,w_74/cards/kh.png'
