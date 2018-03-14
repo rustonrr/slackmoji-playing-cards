@@ -1,1 +1,1 @@
-Slackmoji playing cards
+Slackmoji Playing Cards
